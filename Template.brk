@@ -1,0 +1,1041 @@
+B R I C K  W O R K S H O P  V0.2.0.0
+
+0 0 0
+0.13725491 0.50980395 0.2 1
+0.4862745 0.69803923 0.8980392
+100
+450
+
+-18 -27 0.0 68 8 1 0.61 0.57 0.57 1
+    +NAME fw sidewalk
+    +UID 8DCCC65C0C8ACD9-B6376335D1C055B6-2
+    +ROT 0 0 0
+-33.0 -27.0 -0.0000004 15 61 0.3 0.25 0.22 0.2 1
+    +NAME fw parking
+    +UID 8DCCC65C0C97480-2BFA0663EB6DDC17-3
+    +ROT 0 0 0
+-49 -8 -0.0000004 16 42 0.3 0.25 0.22 0.2 1
+    +NAME fw parking2
+    +UID 8DCCC65C0C982CC-D379E36A86E0EAD7-4
+    +ROT 0 0 0
+-50.0 -27.0 0.0 17 19 1 0.61 0.57 0.57 1
+    +NAME fw curb/sidewalk
+    +UID 8DCCC65C0C98CE1-84FA8B9195E27C87-5
+    +ROT 0 0 0
+-50.0 -8.0 0.0 1 45 1 0.61 0.57 0.57 1
+    +NAME fw curb2
+    +UID 8DCCC65C0C9969D-978C0AD4179E4C8B-6
+    +ROT 0 0 0
+-18.0 -19 0.0 3 56 1 0.61 0.57 0.57 1
+    +NAME fw curb3
+    +UID 8DCCC65C0C99F09-1D4DB3271187EF10-7
+    +ROT 0 0 0
+-49.0 34.0 0.0 31 3 1 0.61 0.57 0.57 1
+    +NAME fw curb4
+    +UID 8DCCC65C0C9A743-82BFE8515645B561-8
+    +ROT 0 0 0
+-11 -10.0 0.0 2 47 5 0.37 0.51 0.4 1
+    +NAME fw wall1
+    +UID 8DCCC65C0C9AFCF-A9C4E44DF119551-9
+    +ROT 0 0 0
+-14.0 -9.0 0.0 3 45 3 0 0.29 0.18 1
+    +NAME fw bush1
+    +UID 8DCCC65C0C9B8EA-5298F60C4617FD84-A
+    +ROT 0 0 0
+47 -10.0 0 2 33 14 0.37 0.51 0.4 1
+    +NAME fw wall2
+    +UID 8DCCC65C0C9C1E5-B141BC68C25DE43C-B
+    +ROT 0 0 0
+-9 -10.0 0 40 47 2 0.67 0.49 0.33 1
+    +NAME fw floor1
+    +UID 8DCCC65C0C9C9F6-11A4568B1D71A767-C
+    +ROT 0 0 0
+31 -10.0 0 16 33 2 0.67 0.49 0.33 1
+    +NAME fw floor2
+    +UID 8DCCC65C0C9D1ED-3ED04647F61953C8-D
+    +ROT 0 0 0
+-11 37 0.0 42 2 5 0.37 0.51 0.4 1
+    +NAME fw wall3
+    +UID 8DCCC65C0C9D9D6-58A9D2D39E613E81-E
+    +ROT 0 0 0
+31 13.0 0 2 15 14 0.37 0.51 0.4 1
+    +NAME fw wall5
+    +UID 8DCCC65C0C9E2B4-30677AF8140943FF-F
+    +ROT 0 0 0
+31 34.0 0 2 5 14 0.37 0.51 0.4 1
+    +NAME fw wall4
+    +UID 8DCCC65C0C9EB07-BAC39371348C3594-10
+    +ROT 0 0 0
+33 23 0.0 16 2 3 0.37 0.51 0.4 1
+    +NAME fw wall5
+    +UID 8DCCC65C0C9F304-9855F77E4326716-11
+    +ROT 0 0 0
+35 24 3.0 10 0 9 0.61 0.57 0.57 1
+    +NAME fw gdoor
+    +UID 8DCCC65C0C9FAFB-86B753BF4EC56CB1-12
+    +ROT 0 0 0
+31 28 0 2 6 2 0.67 0.49 0.33 1
+    +NAME fw step1
+    +UID 8DCCC65C0CA0461-3C569BA3CE589315-13
+    +ROT 0 0 0
+33.0 28 0.0 1 6 1 0.67 0.49 0.33 1
+    +NAME fw step2
+    +UID 8DCCC65C0CA0C80-177AD060865830D0-14
+    +ROT 0 0 0
+33 23 3.0 2 2 11 0.37 0.51 0.4 1
+    +NAME fw wall6
+    +UID 8DCCC65C0CA14AC-D215BE37867A26B3-15
+    +ROT 0 0 0
+45 23 3.0 4 2 11 0.37 0.51 0.4 1
+    +NAME fw wall6 - Copy
+    +UID 8DCCC65C0CA1C7F-A24CE853E42B11D5-16
+    +ROT 0 0 0
+32 28 2 0 6 8 0.36 0.11 0.05 1
+    +NAME fw sidedoor
+    +UID 8DCCC65C0CA245D-BE2CB08222697799-17
+    +ROT 0 0 0
+31 28 10 2 6 4 0.37 0.51 0.4 1
+    +NAME fw wall7
+    +UID 8DCCC65C0CA2DEE-C05AE12724FAA915-18
+    +ROT 0 0 0
+35 23 11.0 10 2 3 0.37 0.51 0.4 1
+    +NAME fw wall8
+    +UID 8DCCC65C0CA3676-FD612BC356872736-19
+    +ROT 0 0 0
+33 23 3.0 2 2 11 0.37 0.51 0.4 1
+    +NAME fw wall6 - Copy
+    +UID 8DCCC65C0CA3EC3-E2F72422CAE06C29-1A
+    +ROT 0 0 0
+25 37 5.0 6 2 7 0.37 0.51 0.4 1
+    +NAME fw wall9
+    +UID 8DCCC65C0CA46FF-295AF26FD06676C0-1B
+    +ROT 0 0 0
+-11 29 5.0 2 8 7 0.37 0.51 0.4 1
+    +NAME fw wall10
+    +UID 8DCCC65C0CA4FD9-371550BFE1CF4F67-1C
+    +ROT 0 0 0
+5 37 5.0 12 2 7 0.37 0.51 0.4 1
+    +NAME fw wall11
+    +UID 8DCCC65C0CA59A7-4494E9597AE9B748-1D
+    +ROT 0 0 0
+32 7 2 0 6 8 0.36 0.11 0.05 1
+    +NAME fw sidedoor - Copy
+    +UID 8DCCC65C0CA658D-9B7B3DE27F3E42FA-1E
+    +ROT 0 0 0
+31 7 10 2 6 4 0.37 0.51 0.4 1
+    +NAME fw wall12
+    +UID 8DCCC65C0CA6EB6-306002F49C9590A9-1F
+    +ROT 0 0 0
+33 3 2 14 2 12 0.37 0.51 0.4 1
+    +NAME fw wall6 - Copy - Copy
+    +UID 8DCCC65C0CA7710-3BF54570ECB53B6A-20
+    +ROT 0 0 0
+45 -12 0 4 2 14 0.37 0.51 0.4 1
+    +NAME fw wall14
+    +UID 8DCCC65C0CA8013-EB84A42B8C8B368C-21
+    +ROT 0 0 0
+31 -1 2 2 8 12 0.37 0.51 0.4 1
+    +NAME fw wall13
+    +UID 8DCCC65C0CA88FC-BA6ADD98BC14EEB7-22
+    +ROT 0 0 0
+31 -12 0.0 14 2 5 0.37 0.51 0.4 1
+    +NAME fw wall14 - Copy
+    +UID 8DCCC65C0CA9131-EDAEAF6ED456356E-23
+    +ROT 0 0 0
+43 5 2 4 4 4 0.36 0.11 0.05 1
+    +NAME fw crate
+    +UID 8DCCC65C0CA996D-269CC22458BFFA39-24
+    +ROT 0 0 0
+44.0 9.0 2.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med
+    +UID 8DCCC65C0CAA285-17401422E9437018-25
+    +ROT 0 0 0
+41.0 8.0 2 3 3 2 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy
+    +UID 8DCCC65C0CAAAB5-E9CFE9594C223BEB-26
+    +ROT 0 0 0
+40.0 5.0 2.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy
+    +UID 8DCCC65C0CAB3AD-8A8A24B69D229E2E-27
+    +ROT 0 0 0
+44.0 5.0 6.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy
+    +UID 8DCCC65C0CABC0F-D8DE042640143B38-28
+    +ROT 0 0 0
+38.0 5.0 1.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CAC431-7B9C8B5DF28B208D-29
+    +ROT 0 0 0
+33 19 2 4 4 4 0.36 0.11 0.05 1
+    +NAME fw crate - Copy
+    +UID 8DCCC65C0CACDF4-C563D70F4F4443C9-2A
+    +ROT 0 0 0
+33.0 20.0 6 3 3 2 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CADF45-CE709EB0B2BF7B61-2C
+    +ROT 0 0 0
+31.0 -12 5.0 3 2 9 0.37 0.51 0.4 1
+    +NAME fw wall16
+    +UID 8DCCC65C0CAE7C6-C09D922F5ED24DB1-2D
+    +ROT 0 0 0
+34.0 -12 12 11 2 2 0.37 0.51 0.4 1
+    +NAME fw wall14 - Copy - Copy
+    +UID 8DCCC65C0CAF172-7101F1999763BF69-2E
+    +ROT 0 0 0
+44.0 -9 4.0 3 10 1 0.66 0.24 0.08 1
+    +NAME fw desk
+    +UID 8DCCC65C0CAFBDB-D40B63AF778F4BFA-2F
+    +ROT 0 0 0
+43.0 -5.0 2.0 1 1 1 0.3 0.32 0.34 1
+    +NAME fw chairleg
+    +UID 8DCCC65C0CB05CF-6029A001003FBCD0-30
+    +ROT 0 0 0
+    +SHAPE cylinder
+43.0 -4.0 2.0 1 1 1 0.3 0.32 0.34 1
+    +NAME fw chairleg
+    +UID 8DCCC65C0CB24DE-71246B016A7B932B-31
+    +ROT 0 0 0
+    +SHAPE cylinder
+42.0 -4.0 2.0 1 1 1 0.3 0.32 0.34 1
+    +NAME fw chairleg - Copy
+    +UID 8DCCC65C0CB32A9-46C2FBAA3E14A0F9-32
+    +ROT 0 0 0
+    +SHAPE cylinder
+42.0 -5.0 2.0 1 1 1 0.3 0.32 0.34 1
+    +NAME fw chairleg - Copy
+    +UID 8DCCC65C0CB4C0C-AC82A4E522BB6869-33
+    +ROT 0 0 0
+    +SHAPE cylinder
+42 -5 3.00 2 2 0.3 0.84 0.45 0.25 1
+    +NAME fw chairseat
+    +UID 8DCCC65C0CB5EA7-B9381BE677768A51-34
+    +ROT 0 0 0
+42.00 -5 3.30 0.3 2 3.7 0.85 0.73 0.48 1
+    +NAME fw chairseat
+    +UID 8DCCC65C0CB6C88-30E9287554ACDD62-35
+    +ROT 0 0 0
+46.0 -5 5.0 1 2 1 0.89 0.89 0.86 1
+    +NAME fw cpustand
+    +UID 8DCCC65C0CB796B-48DCDCA71863F52D-36
+    +ROT 0 0 0
+46.0 -7 6 1 6 4 0 0 0 1
+    +NAME fw cpumonitor
+    +UID 8DCCC65C0CB85CD-A3FAD7B753970955-37
+    +ROT 0 0 0
+44.5 -6 5.00 1 4 0.3 0.89 0.89 0.86 1
+    +NAME fw keyboard
+    +UID 8DCCC65C0CB9136-FD851A01AD8BF8D2-38
+    +ROT 0 0 0
+44.0 0.0 2 1 1 2 0.3 0.32 0.34 1
+    +NAME fw deskleg
+    +UID 8DCCC65C0CB9A81-4FA6BE2CF6564F76-39
+    +ROT 0 0 0
+    +SHAPE cylinder
+44.0 -9.0 2 1 1 2 0.3 0.32 0.34 1
+    +NAME fw deskleg - Copy
+    +UID 8DCCC65C0CBA5D6-91A9E734426CECDF-3A
+    +ROT 0 0 0
+    +SHAPE cylinder
+33 0.0 2 8 3 2 0.36 0.11 0.05 1
+    +NAME fw sofa
+    +UID 8DCCC65C0CBB1CF-F0CE419E9C140144-3B
+    +ROT 0 0 0
+33.0 0.0 4.0 1 3 1 0.36 0.11 0.05 1
+    +NAME fw sofa arm - Copy
+    +UID 8DCCC65C0CBBA84-73452A7553E08E7-3C
+    +ROT 0 0 0
+34 2.0 4.0 6 1 3 0.36 0.11 0.05 1
+    +NAME fw sofa arm - Copy
+    +UID 8DCCC65C0CBC2F7-EEF88DC8DB2C8FC7-3D
+    +ROT 0 0 0
+34 -9 2 2 2 2 0.19 0.06 0.02 1
+    +NAME fw plantpot
+    +UID 8DCCC65C0CBCB4C-9BF4B4284DDFF02C-3E
+    +ROT 0 0 0
+34.5 -8.5 4 1 1 4 0 0.59 0.14 1
+    +NAME fw plantstem
+    +UID 8DCCC65C0CBD3F8-274DFE5C57007C6E-3F
+    +ROT 0 0 0
+34.5 -7.5 5.00 1 1 0.3 0 0.59 0.14 1
+    +NAME fw leaf1
+    +UID 8DCCC65C0CBDD4F-D11A512360644DF0-40
+    +ROT 0 0 0
+33.5 -8.5 6.00 1 1 0.3 0 0.59 0.14 1
+    +NAME fw leaf2
+    +UID 8DCCC65C0CBE5A5-35C8C4ED6C3AB299-41
+    +ROT 0 0 0
+35.5 -8.5 7.00 1 1 0.3 0 0.59 0.14 1
+    +NAME fw leaf2
+    +UID 8DCCC65C0CBEE52-41F1371BF0004E66-42
+    +ROT 0 0 0
+40.0 0.0 4.0 1 3 1 0.36 0.11 0.05 1
+    +NAME fw sofa arm - Copy - Copy
+    +UID 8DCCC65C0CBF6B8-F5762A0FB30D4C9F-43
+    +ROT 0 0 0
+32 -6.0 2 0 5 8 0.36 0.11 0.05 1
+    +NAME fw sidedoor - Copy - Copy
+    +UID 8DCCC65C0CBFFF7-D56099900C14494D-44
+    +ROT 0 0 0
+31 -10 2 2 4 12 0.37 0.51 0.4 1
+    +NAME fw wall13 - Copy
+    +UID 8DCCC65C0CC08F9-5250FD4503F7680F-45
+    +ROT 0 0 0
+31 -6.0 10 2 5 4 0.37 0.51 0.4 1
+    +NAME fw wall12 - Copy
+    +UID 8DCCC65C0CC1168-253B6F2155EDB3D9-46
+    +ROT 0 0 0
+-11 37 5.0 8 2 7 0.37 0.51 0.4 1
+    +NAME fw wall10 - Copy
+    +UID 8DCCC65C0CC19FF-2003A948F03B5736-47
+    +ROT 0 0 0
+-11 7 5.0 2 14 7 0.37 0.51 0.4 1
+    +NAME fw wall10 - Copy
+    +UID 8DCCC65C0CC223E-1782A509B7FD735D-48
+    +ROT 0 0 0
+-11 -10.0 5.0 2 9 7 0.37 0.51 0.4 1
+    +NAME fw wall10 - Copy - Copy
+    +UID 8DCCC65C0CC2C2A-AF52589EAB64935A-49
+    +ROT 0 0 0
+-11.0 -12 0 5 2 14 0.37 0.51 0.4 1
+    +NAME fw wall
+    +UID 8DCCC65C0CC3538-82EA09E3955BD079-4A
+    +ROT 0 0 0
+26.0 -12 0 5 2 14 0.37 0.51 0.4 1
+    +NAME fw wall - Copy
+    +UID 8DCCC65C0CC3D66-C94A1B0ACA499B3D-4B
+    +ROT 0 0 0
+14 -12 0.0 12 2 5 0.37 0.51 0.4 1
+    +NAME fw wall3 - Copy
+    +UID 8DCCC65C0CC4607-DC31F55D4B6D321-4C
+    +ROT 0 0 0
+-6 -12 0.0 12 2 5 0.37 0.51 0.4 1
+    +NAME fw wall3 - Copy - Copy
+    +UID 8DCCC65C0CC4F83-86491459A6122FF4-4D
+    +ROT 0 0 0
+14.0 -12 5.0 3 2 7 0.37 0.51 0.4 1
+    +NAME fw wall16 - Copy
+    +UID 8DCCC65C0CC589F-8CA86F60F9EC587B-4E
+    +ROT 0 0 0
+3.0 -12 5.0 3 2 7 0.37 0.51 0.4 1
+    +NAME fw wall16 - Copy
+    +UID 8DCCC65C0CC60E8-7B8417A3BA67293E-4F
+    +ROT 0 0 0
+6 -12 0 8 2 2 0.67 0.49 0.33 1
+    +NAME fw step1 - Copy - Copy
+    +UID 8DCCC65C0CC693D-5FB0E345947C5589-50
+    +ROT 0 0 0
+-11 -10.0 12 2 47 2 0.37 0.51 0.4 1
+    +NAME fw wall - Copy
+    +UID 8DCCC65C0CC719B-7905D82BDC268B6D-51
+    +ROT 0 0 0
+-11 37 12 42 2 2 0.37 0.51 0.4 1
+    +NAME fw wall - Copy - Copy
+    +UID 8DCCC65C0CC7B6F-EE4A5E3CC51E0D7E-52
+    +ROT 0 0 0
+-6 -12 12 32 2 2 0.37 0.51 0.4 1
+    +NAME fw wall - Copy - Copy
+    +UID 8DCCC65C0CC83B4-2D65341A1A0A334F-53
+    +ROT 0 0 0
+4 -19.0 0.0 12 7 1 0.61 0.57 0.57 1
+    +NAME fw frontwalk
+    +UID 8DCCC65C0CC8C31-5A0F33980AC90594-54
+    +ROT 0 0 0
+-8.0 -15.0 0.0 11 3 3 0 0.29 0.18 1
+    +NAME fw bush2
+    +UID 8DCCC65C0CC9477-5487102820B37CEB-55
+    +ROT 0 0 0
+23.0 -10 2.0 3 16 3 0.46 0.48 0.49 1
+    +NAME fw clerkdesk
+    +UID 8DCCC65C0CC9DAB-BFFA6E62FFBA0A94-56
+    +ROT 0 0 0
+23.0 -7 5 3 2 2 0.3 0.32 0.34 1
+    +NAME fw register2
+    +UID 8DCCC65C0CCA65F-26BDD248647CF03F-57
+    +ROT 0 0 0
+23.0 1 5 3 2 2 0.3 0.32 0.34 1
+    +NAME fw register1
+    +UID 8DCCC65C0CCAFFD-AFA28C9795C05AC0-58
+    +ROT 0 0 0
+13.0 3.0 2 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost
+    +UID 8DCCC65C0CCB9C0-9A34F920376C7BA6-59
+    +ROT 0 0 0
+9.0 11.0 2 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost
+    +UID 8DCCC65C0CCC298-B211F0B46E29E2C-5A
+    +ROT 0 0 0
+9.0 3.0 2 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost
+    +UID 8DCCC65C0CCCBE0-344417B3A7A012AB-5B
+    +ROT 0 0 0
+13.0 11.0 2 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy
+    +UID 8DCCC65C0CCD4A6-3B3A45AF5BB4ADF4-5C
+    +ROT 0 0 0
+9.0 3.0 6.00 5 9 0.3 0.61 0.57 0.57 1
+    +NAME fw shelfflat
+    +UID 8DCCC65C0CCDCC1-61C64C70E17FCB6B-5D
+    +ROT 0 0 0
+9.0 3.0 10.00 5 9 0.3 0.61 0.57 0.57 1
+    +NAME fw shelfflat - Copy
+    +UID 8DCCC65C0CCE4F6-70DFEBBF7B96448C-5E
+    +ROT 0 0 0
+9.0 11.0 6 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy
+    +UID 8DCCC65C0CCEE05-E01A01198C3C21B4-5F
+    +ROT 0 0 0
+13.0 11.0 6 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy - Copy
+    +UID 8DCCC65C0CCF61B-A5980F6763CB346A-60
+    +ROT 0 0 0
+9.0 3.0 6 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy
+    +UID 8DCCC65C0CCFE7F-D9894D2BA617EDF4-61
+    +ROT 0 0 0
+13.0 3.0 6 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy
+    +UID 8DCCC65C0CD06B9-931F25B047BEBCE-62
+    +ROT 0 0 0
+10.0 8.0 6.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CD1884-FCBB35AF1A13E2E7-63
+    +ROT 0 0 0
+10.0 4.0 6.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CD2135-37E2A601187291CE-64
+    +ROT 0 0 0
+10.0 4.0 10.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CD2997-7EBE506884776781-65
+    +ROT 0 0 0
+10.0 8.0 10.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CD31CC-A381F6554A1B4E67-66
+    +ROT 0 0 0
+10.0 4.0 2.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CD3B28-85F559F31C0AC823-67
+    +ROT 0 0 0
+10.0 8.0 2.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CD4376-6ACECAF70B5542BA-68
+    +ROT 0 0 0
+10.0 12.0 2.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CD4BAD-EF606BE678DE1A23-69
+    +ROT 0 0 0
+10.0 16.0 2.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CD53D0-666086465DCCC628-6A
+    +ROT 0 0 0
+10.0 12.0 6.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CD5C8A-23AD56B2D95FC139-6B
+    +ROT 0 0 0
+10.0 16.0 6.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CD65C5-D14F14B07D112F5B-6C
+    +ROT 0 0 0
+10.0 12.0 10.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CD6E20-9FF6423E8E6E1EE7-6D
+    +ROT 0 0 0
+10.0 16.0 10.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CD76C4-CCF27E6C6FB0B777-6E
+    +ROT 0 0 0
+9.0 11.0 10.00 5 9 0.3 0.61 0.57 0.57 1
+    +NAME fw shelfflat - Copy - Copy
+    +UID 8DCCC65C0CD847A-3EDBCF5D8C00AB32-6F
+    +ROT 0 0 0
+9.0 11.0 6.00 5 9 0.3 0.61 0.57 0.57 1
+    +NAME fw shelfflat - Copy
+    +UID 8DCCC65C0CD90FE-1EDE9B3263EE03E6-70
+    +ROT 0 0 0
+9.0 19.0 6 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy - Copy
+    +UID 8DCCC65C0CD9A84-2CEC5B58031BC0EC-71
+    +ROT 0 0 0
+9.0 19.0 2 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy
+    +UID 8DCCC65C0CDA355-1F1A1010713F9FF4-72
+    +ROT 0 0 0
+13.0 19.0 6 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy - Copy - Copy
+    +UID 8DCCC65C0CDDA11-91ABB9E8FD06038D-77
+    +ROT 0 0 0
+13.0 19.0 2 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy - Copy
+    +UID 8DCCC65C0CDE40F-D8ECA8D5B275E71E-78
+    +ROT 0 0 0
+10.0 20.0 2.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CDED61-317A6E1A4640D199-79
+    +ROT 0 0 0
+10.0 24.0 2.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CDF692-FE7492502E2CE3A2-7A
+    +ROT 0 0 0
+10.0 20.0 6.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CDFFFF-9CC6B91D23A5DF4E-7B
+    +ROT 0 0 0
+10.0 24.0 6.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CE0984-94406FEA464C215D-7C
+    +ROT 0 0 0
+10.0 20.0 10.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CE12A5-CAA3F50464F41986-7D
+    +ROT 0 0 0
+10.0 24.0 10.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CE1BDC-E6859DB4918BA09F-7E
+    +ROT 0 0 0
+9.0 19.0 10.00 5 9 0.3 0.61 0.57 0.57 1
+    +NAME fw shelfflat - Copy - Copy - Copy
+    +UID 8DCCC65C0CE2537-BA385E0C8939956B-7F
+    +ROT 0 0 0
+9.0 19.0 6.00 5 9 0.3 0.61 0.57 0.57 1
+    +NAME fw shelfflat - Copy - Copy
+    +UID 8DCCC65C0CE2E38-A61F59FA6FCBEC20-80
+    +ROT 0 0 0
+9.0 27.0 6 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy - Copy - Copy
+    +UID 8DCCC65C0CE37A2-BE4758E86F05F088-81
+    +ROT 0 0 0
+9.0 27.0 2 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy - Copy
+    +UID 8DCCC65C0CE4143-89E55AFD5BE4697E-82
+    +ROT 0 0 0
+13.0 27.0 6 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CE6EF0-7BCFEE373D65452C-87
+    +ROT 0 0 0
+13.0 27.0 2 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy - Copy - Copy
+    +UID 8DCCC65C0CE7836-27D6275AFCB1C242-88
+    +ROT 0 0 0
+-1.0 20.0 2.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CE8225-D0FDCBF1C202D47B-89
+    +ROT 0 0 0
+-1.0 24.0 2.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CE8B21-9862521F13518E01-8A
+    +ROT 0 0 0
+-1.0 20.0 6.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CE9410-28FF4B573ECE18C4-8B
+    +ROT 0 0 0
+-1.0 24.0 6.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CE9E3C-F8E731DE535CD2E4-8C
+    +ROT 0 0 0
+-1.0 20.0 10.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CEA75B-5BCF0C05EB2DC0A1-8D
+    +ROT 0 0 0
+-1.0 24.0 10.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CEB053-8D98D8488583845F-8E
+    +ROT 0 0 0
+-2.0 19.0 10.00 5 9 0.3 0.61 0.57 0.57 1
+    +NAME fw shelfflat - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CEB939-ED1C47CC34C4E4C3-8F
+    +ROT 0 0 0
+-2.0 19.0 6.00 5 9 0.3 0.61 0.57 0.57 1
+    +NAME fw shelfflat - Copy - Copy - Copy
+    +UID 8DCCC65C0CEC262-45D424AE3786421-90
+    +ROT 0 0 0
+-2.0 27.0 6 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CECB43-8F9CE67F5895172A-91
+    +ROT 0 0 0
+-2.0 27.0 2 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy - Copy - Copy
+    +UID 8DCCC65C0CED45D-F91F2216DA63506C-92
+    +ROT 0 0 0
+2.0 27.0 6 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CF00FA-7C0C16D93105461A-97
+    +ROT 0 0 0
+2.0 27.0 2 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CF0A27-7744142F87DA7AC7-98
+    +ROT 0 0 0
+-1.0 12.0 2.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CF1326-50F6B7928A0495FF-99
+    +ROT 0 0 0
+-1.0 16.0 2.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CF1C03-769AEDF52C236DE3-9A
+    +ROT 0 0 0
+-1.0 12.0 6.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CF24E6-92EF0BC88250F6B7-9B
+    +ROT 0 0 0
+-1.0 16.0 6.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CF2E6C-22321FCA2022533D-9C
+    +ROT 0 0 0
+-1.0 12.0 10.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CF3767-7DD120CA61B65E4-9D
+    +ROT 0 0 0
+-1.0 16.0 10.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CF405A-43C0F353B9392A14-9E
+    +ROT 0 0 0
+-2.0 11.0 10.00 5 9 0.3 0.61 0.57 0.57 1
+    +NAME fw shelfflat - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CF493D-B8748B30D1FC003F-9F
+    +ROT 0 0 0
+-2.0 11.0 6.00 5 9 0.3 0.61 0.57 0.57 1
+    +NAME fw shelfflat - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CF86FC-CE7E9DF825BC93A6-A0
+    +ROT 0 0 0
+-2.0 19.0 6 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CF939A-DEABBE45DEBBD95-A1
+    +ROT 0 0 0
+-2.0 19.0 2 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CF9DBB-87BE00AD3A1A2244-A2
+    +ROT 0 0 0
+2.0 19.0 6 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CFCC35-1547DD3A72262C63-A7
+    +ROT 0 0 0
+2.0 19.0 2 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CFD54E-86D3CDF9B328F5C2-A8
+    +ROT 0 0 0
+-1.0 4.0 2.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CFDE32-3D4D57D7699F5CEC-A9
+    +ROT 0 0 0
+-1.0 8.0 2.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CFE704-15A7146C12ACC0E0-AA
+    +ROT 0 0 0
+-1.0 4.0 6.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CFEFC1-C0CC6EA68C124C3-AB
+    +ROT 0 0 0
+-1.0 8.0 6.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0CFF8A9-51F36EE4CB854D9C-AC
+    +ROT 0 0 0
+-1.0 4.0 10.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D0032B-327ED5A4B90DA03F-AD
+    +ROT 0 0 0
+-1.0 8.0 10.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D00F70-5BBC74833C5A2CE9-AE
+    +ROT 0 0 0
+-2.0 3.0 10.00 5 9 0.3 0.61 0.57 0.57 1
+    +NAME fw shelfflat - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D01C36-DFE232B17CD3453-AF
+    +ROT 0 0 0
+-2.0 3.0 6.00 5 9 0.3 0.61 0.57 0.57 1
+    +NAME fw shelfflat - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D02AB4-254456552CD3172A-B0
+    +ROT 0 0 0
+-2.0 11.0 6 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D04C39-5869C678DC1AB8B8-B1
+    +ROT 0 0 0
+-2.0 11.0 2 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D05A0D-697EAC6CE0C6DD0-B2
+    +ROT 0 0 0
+-2.0 3.0 6 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D06565-E5D201F528C292AC-B3
+    +ROT 0 0 0
+-2.0 3.0 2 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D06FF8-6849BE333B98C922-B4
+    +ROT 0 0 0
+2.0 3.0 2 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D079B7-158DB3BB33CF168B-B5
+    +ROT 0 0 0
+2.0 3.0 6 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D082E4-4A9EA55D6E49D8F9-B6
+    +ROT 0 0 0
+2.0 11.0 6 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D08BF5-19F95F3398A2D241-B7
+    +ROT 0 0 0
+2.0 11.0 2 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D09594-B9BF0F15C84D99E2-B8
+    +ROT 0 0 0
+-1.0 -4.0 2.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D09EA3-D82E13CD5173FE23-B9
+    +ROT 0 0 0
+-1.0 0.0 2.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D0A77B-F53DC60ECB3DC466-BA
+    +ROT 0 0 0
+-1.0 -4.0 6.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D0B039-DA533FAE5CB4A5E4-BB
+    +ROT 0 0 0
+-1.0 0.0 6.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D0B937-D37E47B0CB8DF84A-BC
+    +ROT 0 0 0
+-1.0 -4.0 10.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D0C208-2D9E6D0A4A8AB033-BD
+    +ROT 0 0 0
+-1.0 0.0 10.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D0CAB6-298372C256D49361-BE
+    +ROT 0 0 0
+-2.0 -5.0 10.00 5 9 0.3 0.61 0.57 0.57 1
+    +NAME fw shelfflat - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D0D34D-AE138E7ADFBF3798-BF
+    +ROT 0 0 0
+-2.0 -5.0 6.00 5 9 0.3 0.61 0.57 0.57 1
+    +NAME fw shelfflat - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D0DBD7-E23E031F80272C87-C0
+    +ROT 0 0 0
+-2.0 -5.0 6 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D0F92B-F65854989B094D7-C3
+    +ROT 0 0 0
+-2.0 -5.0 2 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D10200-183E87194A04393-C4
+    +ROT 0 0 0
+2.0 -5.0 2 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D10AF6-98215CEDA994F325-C5
+    +ROT 0 0 0
+2.0 -5.0 6 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D113A8-3C27FC2E6AE1536B-C6
+    +ROT 0 0 0
+21.0 12.0 2.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D12E7D-7099E1B68C0756AF-C9
+    +ROT 0 0 0
+21.0 16.0 2.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D13767-EE76A1D18F77F6E8-CA
+    +ROT 0 0 0
+21.0 12.0 6.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D14089-DC4DB9471F5CD162-CB
+    +ROT 0 0 0
+21.0 16.0 6.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D14941-C5D2FC68A1961524-CC
+    +ROT 0 0 0
+21.0 12.0 10.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D15205-B0FA7F52A9EF4688-CD
+    +ROT 0 0 0
+21.0 16.0 10.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D15C67-C44263B2F9834EA7-CE
+    +ROT 0 0 0
+20.0 11.0 10.00 5 9 0.3 0.61 0.57 0.57 1
+    +NAME fw shelfflat - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D165C5-E431533D12EE1800-CF
+    +ROT 0 0 0
+20.0 11.0 6.00 5 9 0.3 0.61 0.57 0.57 1
+    +NAME fw shelfflat - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D16EAE-75CA85274D1691DC-D0
+    +ROT 0 0 0
+20.0 19.0 2 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D1805D-F7461FF9F0A7BB7B-D2
+    +ROT 0 0 0
+20.0 11.0 6 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D18913-AC5E31F11A072D2E-D3
+    +ROT 0 0 0
+20.0 11.0 2 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D191AC-44A7C870E1ED2658-D4
+    +ROT 0 0 0
+24.0 11.0 2 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D1A6B6-3D4A1C89C7BF1899-D5
+    +ROT 0 0 0
+24.0 11.0 6 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D1B123-DD8A2EF221778BD1-D6
+    +ROT 0 0 0
+24.0 19.0 6 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D1BA39-1C8DF5804FCD5D70-D7
+    +ROT 0 0 0
+24.0 19.0 2 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D1C33C-BDB84A764AB3C379-D8
+    +ROT 0 0 0
+21.0 20.0 2.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D1CC54-5BD20B92F6E089CC-D9
+    +ROT 0 0 0
+21.0 24.0 2.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D1D57F-BEBE09A8811BA5E1-DA
+    +ROT 0 0 0
+21.0 20.0 6.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D1DE8B-F5AAC9218677A3A-DB
+    +ROT 0 0 0
+21.0 24.0 6.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D1E789-62C8C79AD86C0ABC-DC
+    +ROT 0 0 0
+21.0 20.0 10.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D1F0D0-C392A755A2278DEE-DD
+    +ROT 0 0 0
+21.0 24.0 10.0 3 3 3 0.36 0.11 0.05 1
+    +NAME fw crate med - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D1FA48-63FAAC1E36AE59F8-DE
+    +ROT 0 0 0
+20.0 19.0 10.00 5 9 0.3 0.61 0.57 0.57 1
+    +NAME fw shelfflat - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D2033C-9AD3128AA04AF69E-DF
+    +ROT 0 0 0
+20.0 19.0 6.00 5 9 0.3 0.61 0.57 0.57 1
+    +NAME fw shelfflat - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D20C33-BD5C65E485E2A8CE-E0
+    +ROT 0 0 0
+20.0 27.0 6 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D2151D-833F1E2569DFF936-E1
+    +ROT 0 0 0
+20.0 27.0 2 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D21E88-41630F00BBADCBCA-E2
+    +ROT 0 0 0
+20.0 19.0 6 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D2277C-1FB909170494EA20-E3
+    +ROT 0 0 0
+20.0 19.0 2 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D23063-83AA6650F318511D-E4
+    +ROT 0 0 0
+24.0 19.0 2 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D2395D-E51B1E86664740AE-E5
+    +ROT 0 0 0
+24.0 27.0 6 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D24B8A-CDD2F405D43F43C-E7
+    +ROT 0 0 0
+24.0 27.0 2 1 1 4 0.61 0.57 0.57 1
+    +NAME fw shelfpost - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D25438-1D849D8A227938C6-E8
+    +ROT 0 0 0
+-13.0 -14.0 14.0 49 55 1 0.3 0.32 0.34 1
+    +NAME fw roof1
+    +UID 8DCCC65C0D25CC9-952059E19AE5629E-E9
+    +ROT 0 0 0
+36.0 -14.0 14.0 15 41 1 0.3 0.32 0.34 1
+    +NAME brick242
+    +UID 8DCCC65C0D2654E-23DA6A2C3334F2F9-EA
+    +ROT 0 0 0
+-8.00 -12.00 17.0 5.3 5.3 1 0.87 0 0.05 1
+    +NAME fw firework red
+    +UID 8DCCC65C0D27231-BF51641AFEA46673-EB
+    +ROT 0 0 0
+    +SHAPE cylinder
+-8.00 -12.00 19.0 5.3 5.3 1 0.87 0 0.05 1
+    +NAME fw firework red - Copy
+    +UID 8DCCC65C0D27E28-1450FCD1E82A367E-EC
+    +ROT 0 0 0
+    +SHAPE cylinder
+-8.00 -12.00 21.0 5.3 5.3 1 0.87 0 0.05 1
+    +NAME fw firework red - Copy - Copy
+    +UID 8DCCC65C0D28A05-349EF11583B97AE5-ED
+    +ROT 0 0 0
+    +SHAPE cylinder
+-8.00 -12.00 23.0 5.3 5.3 1 0.87 0 0.05 1
+    +NAME fw firework red - Copy - Copy - Copy
+    +UID 8DCCC65C0D29C55-687891CB0F2F020C-EE
+    +ROT 0 0 0
+    +SHAPE cylinder
+-8.00 -12.00 18.0 5.3 5.3 1 0.89 0.89 0.86 1
+    +NAME fw firework white
+    +UID 8DCCC65C0D2B137-FB2A9FD39B0C7C01-EF
+    +ROT 0 0 0
+    +SHAPE cylinder
+-8.00 -12.00 20.0 5.3 5.3 1 0.89 0.89 0.86 1
+    +NAME fw firework white - Copy
+    +UID 8DCCC65C0D2C544-8FE02835177EE8C5-F0
+    +ROT 0 0 0
+    +SHAPE cylinder
+-8.00 -12.00 22.0 5.3 5.3 1 0.89 0.89 0.86 1
+    +NAME fw firework white - Copy
+    +UID 8DCCC65C0D2D720-981FDBDFA567FDDC-F1
+    +ROT 0 0 0
+    +SHAPE cylinder
+-9.00 -13.00 24.0 7.3 7.3 1 0.67 0.49 0.33 1
+    +NAME fw firework top
+    +UID 8DCCC65C0D2E9C7-25C546C00D826C57-F2
+    +ROT 0 0 0
+    +SHAPE cylinder
+-8.00 -12.00 25.0 5.3 5.3 1 0.67 0.49 0.33 1
+    +NAME fw firework top - Copy
+    +UID 8DCCC65C0D2FA81-928AF4EE10E1B1C1-F3
+    +ROT 0 0 0
+    +SHAPE cylinder
+-7.00 -11.00 26.0 3.3 3.3 1 0.67 0.49 0.33 1
+    +NAME fw firework top - Copy
+    +UID 8DCCC65C0D30BFB-136B3801B2CEFE32-F4
+    +ROT 0 0 0
+    +SHAPE cylinder
+-6.00 -10.00 15.0 1.3 1.3 13 0.67 0.49 0.33 1
+    +NAME fw firework top - Copy - Copy
+    +UID 8DCCC65C0D31CE4-B7336270A705BA22-F5
+    +ROT 0 0 0
+    +SHAPE cylinder
+48.0 -13.0 18.0 1 1 1 0.87 0 0.05 1
+    +NAME fw flag
+    +UID 8DCCC65C0D32FBA-4E3F3964D25D39B3-F6
+    +ROT 0 0 0
+    +SHAPE flag
+37.0 -13.0 18.0 1 1 1 0.87 0 0.05 1
+    +NAME fw flag
+    +UID 8DCCC65C0D38AC0-6D79763DDDC783DB-F7
+    +ROT 0 0 0
+    +SHAPE flag
+15.0 -13.0 18.0 1 1 1 0.87 0 0.05 1
+    +NAME fw flag - Copy
+    +UID 8DCCC65C0D3AA3D-B3730AB44279C1C8-F8
+    +ROT 0 0 0
+    +SHAPE flag
+15.2 -12.8 15.00 0.6 0.6 3.9 0.61 0.57 0.57 1
+    +NAME fw flagpole - Copy - Copy
+    +UID 8DCCC65C0D3C8C9-BD65E31541836BC1-F9
+    +ROT 0 0 0
+    +SHAPE cylinder
+4.0 -13.0 18.0 1 1 1 0.87 0 0.05 1
+    +NAME fw flag - Copy - Copy
+    +UID 8DCCC65C0D3DCD4-12E250E180A86EBE-FA
+    +ROT 0 0 0
+    +SHAPE flag
+26.0 -13.0 18.0 1 1 1 0.87 0 0.05 1
+    +NAME fw flag - Copy
+    +UID 8DCCC65C0D41928-4262F230DDCA937-FC
+    +ROT 0 0 0
+    +SHAPE flag
+33.0 25.0 0.00 15 25 0.3 0.25 0.22 0.2 1
+    +NAME fw back alley
+    +UID 8DCCC65C0D43569-D4B43C8123B70184-FD
+    +ROT 0 0 0
+-49 1.0 -0.0500004 16 1 0.4 0.89 0.89 0.86 1
+    +NAME fw parkingstripe
+    +UID 8DCCC65C0D49178-603EA4CF373B61CB-103
+    +ROT 0 0 0
+-49 24.0 -0.0500004 16 1 0.4 0.89 0.89 0.86 1
+    +NAME fw parkingstripe
+    +UID 8DCCC65C0D49EC4-D825613C3B0AD102-104
+    +ROT 0 0 0
+-49 12.5 -0.0500004 16 1 0.4 0.89 0.89 0.86 1
+    +NAME fw parkingstripe
+    +UID 8DCCC65C0D4AB88-17209E9DA89B7EDC-105
+    +ROT 0 0 0
+6 -12 0 8 2 2 0.67 0.49 0.33 1
+    +NAME fw step1 - Copy - Copy - Copy
+    +UID 8DCCC65C0D4C6D9-89A73AA1F3B9CF1-107
+    +ROT 0 0 0
+9.5 -11 2 1 0 10 0.3 0.32 0.34 1
+    +NAME fw door - Copy
+    +UID 8DCCC65C0D4E693-53E8A68D716B956F-109
+    +ROT 0 0 0
+17 -15.0 0.0 30 3 3 0 0.29 0.18 1
+    +NAME fw bush2 - Copy
+    +UID 8DCCC65C0D4F8D9-141CB9216EF5FA69-10A
+    +ROT 0 0 0
+4.200001 -12.8 15.00 0.6 0.6 3.9 0.61 0.57 0.57 1
+    +NAME fw flagpole - Copy - Copy - Copy
+    +UID 8DCCC65C0D507F5-EE8E8F5F3BE4B239-10B
+    +ROT 0 0 0
+    +SHAPE cylinder
+26.2 -12.8 15.00 0.6 0.6 3.9 0.61 0.57 0.57 1
+    +NAME fw flagpole - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D51C13-D066FB6716B406BC-10C
+    +ROT 0 0 0
+    +SHAPE cylinder
+37.2 -12.8 15.00 0.6 0.6 3.9 0.61 0.57 0.57 1
+    +NAME fw flagpole - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D52FAC-35A1D6879C84B307-10D
+    +ROT 0 0 0
+    +SHAPE cylinder
+48.2 -12.8 15.00 0.6 0.6 3.9 0.61 0.57 0.57 1
+    +NAME fw flagpole - Copy - Copy - Copy - Copy - Copy - Copy
+    +UID 8DCCC65C0D543C6-A452A98A211D5EC7-10E
+    +ROT 0 0 0
+    +SHAPE cylinder
+17.0 -12 5.0 9 2 7 0 0.64 0.86 0.39
+    +NAME fw window
+    +UID 8DCCC65C0D44469-C3578ED7EA3FA34E-FE
+    +ROT 0 0 0
+-11 21 5.0 2 8 7 0 0.64 0.86 0.39
+    +NAME fw window
+    +UID 8DCCC65C0D4528C-99B41DB7DEF37990-FF
+    +ROT 0 0 0
+-11 -1 5.0 2 8 7 0 0.64 0.86 0.39
+    +NAME fw window
+    +UID 8DCCC65C0D46214-A9A683DA0BBFB203-100
+    +ROT 0 0 0
+-6.0 -12 5.0 9 2 7 0 0.64 0.86 0.39
+    +NAME fw window - Copy
+    +UID 8DCCC65C0D471D8-C7373305D8899283-101
+    +ROT 0 0 0
+34.0 -12 5.0 11 2 7 0 0.64 0.86 0.39
+    +NAME fw window - Copy - Copy
+    +UID 8DCCC65C0D48181-DDE78B94A8289C28-102
+    +ROT 0 0 0
+10.50 -11 2 3.5 0 10 0 0.64 0.86 0.49
+    +NAME fw door
+    +UID 8DCCC65C0D4B943-C82712D8C2183316-106
+    +ROT 0 0 0
+6.00 -11 2 3.5 0 10 0 0.64 0.86 0.49
+    +NAME fw door - Copy
+    +UID 8DCCC65C0D4D501-9CC44B81106D827D-108
+    +ROT 0 0 0
+
+>GROUP 0 0 0 0 8DCCC65C0D31CE4-B7336270A705BA22-F5 8DCCC65C0D30BFB-136B3801B2CEFE32-F4 8DCCC65C0D2FA81-928AF4EE10E1B1C1-F3 8DCCC65C0D2E9C7-25C546C00D826C57-F2 8DCCC65C0D29C55-687891CB0F2F020C-EE 8DCCC65C0D2D720-981FDBDFA567FDDC-F1 8DCCC65C0D28A05-349EF11583B97AE5-ED 8DCCC65C0D2C544-8FE02835177EE8C5-F0 8DCCC65C0D27E28-1450FCD1E82A367E-EC 8DCCC65C0D2B137-FB2A9FD39B0C7C01-EF 8DCCC65C0D27231-BF51641AFEA46673-EB
+>GROUP 1 0 0 0 8DCCC65C0D507F5-EE8E8F5F3BE4B239-10B 8DCCC65C0D3DCD4-12E250E180A86EBE-FA
+>GROUP 2 0 0 0 8DCCC65C0D3C8C9-BD65E31541836BC1-F9 8DCCC65C0D3AA3D-B3730AB44279C1C8-F8
+>GROUP 3 0 0 0 8DCCC65C0D51C13-D066FB6716B406BC-10C 8DCCC65C0D41928-4262F230DDCA937-FC
+>GROUP 4 0 0 0 8DCCC65C0D38AC0-6D79763DDDC783DB-F7 8DCCC65C0D52FAC-35A1D6879C84B307-10D
+>GROUP 5 0 0 0 8DCCC65C0D32FBA-4E3F3964D25D39B3-F6 8DCCC65C0D543C6-A452A98A211D5EC7-10E
+>GROUP 6 0 0 0 8DCCC65C0CBD3F8-274DFE5C57007C6E-3F 8DCCC65C0CBEE52-41F1371BF0004E66-42 8DCCC65C0CBE5A5-35C8C4ED6C3AB299-41 8DCCC65C0CBDD4F-D11A512360644DF0-40 8DCCC65C0CBCB4C-9BF4B4284DDFF02C-3E
+>GROUP 7 0 0 0 8DCCC65C0CBB1CF-F0CE419E9C140144-3B 8DCCC65C0CBF6B8-F5762A0FB30D4C9F-43 8DCCC65C0CBC2F7-EEF88DC8DB2C8FC7-3D 8DCCC65C0CBBA84-73452A7553E08E7-3C
+>GROUP 8 0 0 0 8DCCC65C0CB6C88-30E9287554ACDD62-35 8DCCC65C0CB5EA7-B9381BE677768A51-34 8DCCC65C0CB32A9-46C2FBAA3E14A0F9-32 8DCCC65C0CB4C0C-AC82A4E522BB6869-33 8DCCC65C0CB05CF-6029A001003FBCD0-30 8DCCC65C0CB24DE-71246B016A7B932B-31
+>GROUP 9 0 0 0 8DCCC65C0CAFBDB-D40B63AF778F4BFA-2F 8DCCC65C0CBA5D6-91A9E734426CECDF-3A 8DCCC65C0CB9A81-4FA6BE2CF6564F76-39
+>GROUP 10 0 0 0 8DCCC65C0CB9136-FD851A01AD8BF8D2-38 8DCCC65C0CB796B-48DCDCA71863F52D-36 8DCCC65C0CB85CD-A3FAD7B753970955-37
+>GROUP 11 0 0 0 8DCCC65C0CABC0F-D8DE042640143B38-28 8DCCC65C0CA996D-269CC22458BFFA39-24 8DCCC65C0CAA285-17401422E9437018-25 8DCCC65C0CAAAB5-E9CFE9594C223BEB-26 8DCCC65C0CAB3AD-8A8A24B69D229E2E-27 8DCCC65C0CAC431-7B9C8B5DF28B208D-29
+>GROUP 12 0 0 0 8DCCC65C0CACDF4-C563D70F4F4443C9-2A 8DCCC65C0CADF45-CE709EB0B2BF7B61-2C
+>GROUP 13 0 0 0 8DCCC65C0C9B8EA-5298F60C4617FD84-A 8DCCC65C0CC9477-5487102820B37CEB-55 8DCCC65C0D4F8D9-141CB9216EF5FA69-10A
+>GROUP 14 0 0 0 8DCCC65C0D25CC9-952059E19AE5629E-E9 8DCCC65C0D2654E-23DA6A2C3334F2F9-EA
+>GROUP 15 0 0 0 8DCCC65C0C9C9F6-11A4568B1D71A767-C 8DCCC65C0C9D1ED-3ED04647F61953C8-D 8DCCC65C0CC693D-5FB0E345947C5589-50 8DCCC65C0CA0461-3C569BA3CE589315-13 8DCCC65C0CA0C80-177AD060865830D0-14
+>GROUP 16 0 0 0 8DCCC65C0C8ACD9-B6376335D1C055B6-2 8DCCC65C0CC8C31-5A0F33980AC90594-54 8DCCC65C0C99F09-1D4DB3271187EF10-7 8DCCC65C0C98CE1-84FA8B9195E27C87-5 8DCCC65C0C9969D-978C0AD4179E4C8B-6 8DCCC65C0C9A743-82BFE8515645B561-8
+>GROUP 17 0 0 0 8DCCC65C0C97480-2BFA0663EB6DDC17-3 8DCCC65C0C982CC-D379E36A86E0EAD7-4
+>GROUP 18 0 0 0 8DCCC65C0CC9DAB-BFFA6E62FFBA0A94-56 8DCCC65C0CCA65F-26BDD248647CF03F-57 8DCCC65C0CCAFFD-AFA28C9795C05AC0-58
+>GROUP 19 0 0 0 8DCCC65C0D20C33-BD5C65E485E2A8CE-E0 8DCCC65C0D1B123-DD8A2EF221778BD1-D6 8DCCC65C0D18913-AC5E31F11A072D2E-D3 8DCCC65C0D191AC-44A7C870E1ED2658-D4 8DCCC65C0D1A6B6-3D4A1C89C7BF1899-D5 8DCCC65C0D165C5-E431533D12EE1800-CF 8DCCC65C0D1BA39-1C8DF5804FCD5D70-D7 8DCCC65C0D24B8A-CDD2F405D43F43C-E7 8DCCC65C0D2033C-9AD3128AA04AF69E-DF 8DCCC65C0D16EAE-75CA85274D1691DC-D0 8DCCC65C0D1C33C-BDB84A764AB3C379-D8 8DCCC65C0D25438-1D849D8A227938C6-E8 8DCCC65C0D21E88-41630F00BBADCBCA-E2 8DCCC65C0D2151D-833F1E2569DFF936-E1 8DCCC65C0D2395D-E51B1E86664740AE-E5 8DCCC65C0D1805D-F7461FF9F0A7BB7B-D2 8DCCC65C0D23063-83AA6650F318511D-E4 8DCCC65C0D2277C-1FB909170494EA20-E3
+>GROUP 20 0 0 0 8DCCC65C0CDE40F-D8ECA8D5B275E71E-78 8DCCC65C0CDDA11-91ABB9E8FD06038D-77 8DCCC65C0CD06B9-931F25B047BEBCE-62 8DCCC65C0CCE4F6-70DFEBBF7B96448C-5E 8DCCC65C0CCF61B-A5980F6763CB346A-60 8DCCC65C0CCD4A6-3B3A45AF5BB4ADF4-5C 8DCCC65C0CCDCC1-61C64C70E17FCB6B-5D 8DCCC65C0CCCBE0-344417B3A7A012AB-5B 8DCCC65C0CCB9C0-9A34F920376C7BA6-59 8DCCC65C0CCFE7F-D9894D2BA617EDF4-61 8DCCC65C0CCEE05-E01A01198C3C21B4-5F 8DCCC65C0CCC298-B211F0B46E29E2C-5A 8DCCC65C0CD90FE-1EDE9B3263EE03E6-70 8DCCC65C0CD847A-3EDBCF5D8C00AB32-6F 8DCCC65C0CD9A84-2CEC5B58031BC0EC-71 8DCCC65C0CDA355-1F1A1010713F9FF4-72 8DCCC65C0CE2E38-A61F59FA6FCBEC20-80 8DCCC65C0CE37A2-BE4758E86F05F088-81 8DCCC65C0CE4143-89E55AFD5BE4697E-82 8DCCC65C0CE2537-BA385E0C8939956B-7F 8DCCC65C0CE6EF0-7BCFEE373D65452C-87 8DCCC65C0CE7836-27D6275AFCB1C242-88
+>GROUP 21 0 0 0 8DCCC65C0D4B943-C82712D8C2183316-106 8DCCC65C0D4D501-9CC44B81106D827D-108 8DCCC65C0D4E693-53E8A68D716B956F-109
+>GROUP 22 0 0 0 8DCCC65C0D49178-603EA4CF373B61CB-103 8DCCC65C0D4AB88-17209E9DA89B7EDC-105 8DCCC65C0D49EC4-D825613C3B0AD102-104
+>GROUP 23 0 0 0 8DCCC65C0D0D34D-AE138E7ADFBF3798-BF 8DCCC65C0D113A8-3C27FC2E6AE1536B-C6 8DCCC65C0D0DBD7-E23E031F80272C87-C0 8DCCC65C0D082E4-4A9EA55D6E49D8F9-B6 8DCCC65C0D079B7-158DB3BB33CF168B-B5 8DCCC65C0D0F92B-F65854989B094D7-C3 8DCCC65C0D10200-183E87194A04393-C4 8DCCC65C0D06565-E5D201F528C292AC-B3 8DCCC65C0D06FF8-6849BE333B98C922-B4 8DCCC65C0D04C39-5869C678DC1AB8B8-B1 8DCCC65C0D05A0D-697EAC6CE0C6DD0-B2 8DCCC65C0CECB43-8F9CE67F5895172A-91 8DCCC65C0CED45D-F91F2216DA63506C-92 8DCCC65C0CF0A27-7744142F87DA7AC7-98 8DCCC65C0CF00FA-7C0C16D93105461A-97 8DCCC65C0D02AB4-254456552CD3172A-B0 8DCCC65C0D01C36-DFE232B17CD3453-AF 8DCCC65C0CF86FC-CE7E9DF825BC93A6-A0 8DCCC65C0CF493D-B8748B30D1FC003F-9F 8DCCC65C0CEB939-ED1C47CC34C4E4C3-8F 8DCCC65C0CEC262-45D424AE3786421-90 8DCCC65C0D08BF5-19F95F3398A2D241-B7 8DCCC65C0D09594-B9BF0F15C84D99E2-B8 8DCCC65C0CFD54E-86D3CDF9B328F5C2-A8 8DCCC65C0CFCC35-1547DD3A72262C63-A7 8DCCC65C0CF9DBB-87BE00AD3A1A2244-A2 8DCCC65C0CF939A-DEABBE45DEBBD95-A1
+>GROUP 24 0 0 0 8DCCC65C0CC08F9-5250FD4503F7680F-45 8DCCC65C0CC1168-253B6F2155EDB3D9-46 8DCCC65C0CA88FC-BA6ADD98BC14EEB7-22 8DCCC65C0CA6EB6-306002F49C9590A9-1F 8DCCC65C0C9E2B4-30677AF8140943FF-F 8DCCC65C0CA2DEE-C05AE12724FAA915-18 8DCCC65C0C9EB07-BAC39371348C3594-10 8DCCC65C0CA9131-EDAEAF6ED456356E-23 8DCCC65C0CAE7C6-C09D922F5ED24DB1-2D 8DCCC65C0CAF172-7101F1999763BF69-2E 8DCCC65C0CA8013-EB84A42B8C8B368C-21 8DCCC65C0C9C1E5-B141BC68C25DE43C-B 8DCCC65C0CA1C7F-A24CE853E42B11D5-16 8DCCC65C0C9F304-9855F77E4326716-11 8DCCC65C0CA3676-FD612BC356872736-19 8DCCC65C0CA14AC-D215BE37867A26B3-15 8DCCC65C0CA46FF-295AF26FD06676C0-1B 8DCCC65C0CC7B6F-EE4A5E3CC51E0D7E-52 8DCCC65C0C9D9D6-58A9D2D39E613E81-E 8DCCC65C0CA59A7-4494E9597AE9B748-1D 8DCCC65C0CC19FF-2003A948F03B5736-47 8DCCC65C0CA4FD9-371550BFE1CF4F67-1C 8DCCC65C0CC719B-7905D82BDC268B6D-51 8DCCC65C0C9AFCF-A9C4E44DF119551-9 8DCCC65C0CC223E-1782A509B7FD735D-48 8DCCC65C0CC2C2A-AF52589EAB64935A-49 8DCCC65C0CC60E8-7B8417A3BA67293E-4F 8DCCC65C0CC83B4-2D65341A1A0A334F-53 8DCCC65C0CC3538-82EA09E3955BD079-4A 8DCCC65C0CC4F83-86491459A6122FF4-4D 8DCCC65C0CC589F-8CA86F60F9EC587B-4E 8DCCC65C0CC4607-DC31F55D4B6D321-4C 8DCCC65C0CC3D66-C94A1B0ACA499B3D-4B 8DCCC65C0CA7710-3BF54570ECB53B6A-20

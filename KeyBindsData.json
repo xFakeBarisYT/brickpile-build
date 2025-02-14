@@ -1,0 +1,11 @@
+{
+  "KeyBinds": [
+    "/play",
+    "/studsnap 1",
+    "/studsnap 0.1",
+    "/anglesnap 15",
+    "/anglesnap 1",
+    "/collision",
+    "/studsnap 0"
+  ]
+}
